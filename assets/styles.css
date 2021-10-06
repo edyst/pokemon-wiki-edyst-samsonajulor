@@ -123,6 +123,7 @@ a.right {
   background: transparent;
   color: #fff;
   margin-top: 20px;
+  border-radius: 2px;
 }
 .learnmore {
   border-radius: 15px;
@@ -351,6 +352,7 @@ a.right {
   background-color: transparent;
   border-color: #fff;
   color: #fff;
+  border-radius: 2px;
 }
 .know-main-input {
   margin-bottom: 40px;
@@ -362,6 +364,9 @@ a.right {
 }
 input[type="text"]::placeholder {
   text-align: left;
+}
+input[type="submit"] {
+  border-radius: 2px;
 }
 /* style for cards */
 .card-text-med {
