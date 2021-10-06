@@ -44,7 +44,7 @@ td {
 table,
 th,
 td {
-  border: 1px solid #dddddd;
+  border: 1px solid #fff;
 }
 
 /* Styles for navbar */
@@ -79,8 +79,8 @@ a.right {
   padding-right: 20px;
 }
 .btn-nav {
-  background-color: blue;
-  color: white;
+  background-color: #4992ca;
+  color: #fff;
   padding-left: 5px;
   padding-right: 5px;
   border: none;
@@ -88,7 +88,7 @@ a.right {
 }
 .btn-nav-apply {
   background-color: rgb(235, 119, 12);
-  color: white;
+  color: #fff;
   padding-left: 25px;
   padding-right: 25px;
   border: none;
@@ -103,25 +103,25 @@ a.right {
 }
 .main_heading {
   font-size: 90px;
-  color: white;
+  color: #fff;
 }
 .main_content {
   font-size: 33px;
-  color: white;
+  color: #fff;
   margin-top: 20px;
 }
 .apply_button {
   background-color: #4992ca;
   display: block;
   padding: 5px 40px 5px 40px;
-  color: white;
+  color: #fff;
   margin-top: 20px;
 }
 .schedule {
   display: block;
   padding: 10px 18px 10px 18px;
   background: transparent;
-  color: white;
+  color: #fff;
   margin-top: 20px;
 }
 .learnmore {
@@ -142,7 +142,7 @@ a.right {
   width: 100%;
   height: 100%;
   z-index: 10;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: #000000b3;
   z-index: -1;
 }
 
@@ -151,7 +151,7 @@ a.right {
   font-family: Avenir-Next, Roboto, sans-serif;
   background: #4992ca;
   padding-top: 15px;
-  color: white;
+  color: #fff;
   padding-left: 200px;
   padding-right: 200px;
   padding-bottom: 70px;
@@ -223,8 +223,8 @@ a.right {
 }
 /* Styles for pokemon games */
 .stat-card > figure > img {
-  width: 250px;
-  height: 250px;
+  width: 200px;
+  height: 200px;
   padding: 20px;
 }
 
@@ -236,7 +236,7 @@ a.right {
 }
 .spotlight-main.trainers {
   background-color: #4992ca;
-  color: white;
+  color: #fff;
   padding-top: 50px;
 }
 .spotlight-img {
@@ -267,14 +267,14 @@ a.right {
   color: rgb(105, 104, 104);
 }
 .spotlight-card.trainers {
-  color: white;
+  color: #fff;
 }
 /* Styles for Question and answer */
 .qa-cont-main {
   text-align: center;
   padding: 50px 150px 50px 150px;
   background-color: #4992ca;
-  color: white;
+  color: #fff;
   line-height: 30px;
 }
 .cont-main-text-big {
@@ -318,7 +318,7 @@ a.right {
   color: #4992ca;
 }
 .buy-btn {
-  color: white;
+  color: #fff;
   background-color: #4992ca;
   border: none;
   padding: 10px 80px 10px 80px;
@@ -331,13 +331,13 @@ a.right {
 
 /* Styles for know more section */
 .know-main {
-  background-color: rgb(70, 69, 69);
-  color: white;
+  background-color: #424242;
+  color: #fff;
   text-align: center;
 }
-.bluebg.know-main {
-  background-color: rgb(70, 69, 69);
-  color: white;
+.bluebg {
+  background-color: #4992ca;
+  color: #fff;
   text-align: center;
 }
 
@@ -349,8 +349,8 @@ a.right {
   margin-top: 20px;
   padding: 10px 80px 10px 80px;
   background-color: transparent;
-  border-color: white;
-  color: white;
+  border-color: #fff;
+  color: #fff;
 }
 .know-main-input {
   margin-bottom: 40px;
@@ -454,10 +454,10 @@ input[type="text"]::placeholder {
   background-color: #4992ca;
   padding: 40px 0 40px 0;
   text-align: center;
-  color: white;
+  color: #fff;
 }
 .designers-header.logos {
-  background-color: white;
+  background-color: #fff;
   padding: 40px 0 40px 0;
   text-align: center;
   color: rgb(126, 125, 125);
@@ -496,7 +496,7 @@ font-size: 45px;
   align-items: center;
   padding: 40px;
   background: rgb(18, 18, 19);
-  color: white;
+  color: #fff;
 }
 .person>ul {
   list-style: none;
@@ -508,12 +508,12 @@ font-size: 45px;
 }
 .fab {
   padding: 20px;
-  color: white;
+  color: #fff;
 }
 .li-header {
   color: rgb(153, 151, 151);
   font-weight: bold;
 }
 .person>ul>a {
-  color: white;
+  color: #fff;
 }
