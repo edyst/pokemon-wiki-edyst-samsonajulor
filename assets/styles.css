@@ -97,7 +97,7 @@ a.right {
 /* style for homepage */
 .header-container {
   height: fit-content;
-  background-image: url("/assets/images/home\ bg.jpeg");
+  background-image: url("./images/home\ bg.jpeg");
   position: relative;
   z-index: -2;
 }
@@ -124,6 +124,7 @@ a.right {
   color: #fff;
   margin-top: 20px;
   border-radius: 2px;
+  border: 1px solid #fff;
 }
 .learnmore {
   border-radius: 15px;
